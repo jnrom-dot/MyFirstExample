@@ -20,6 +20,9 @@ int main()
     cout << "Remainder: " << x % y << endl;
     cout << "Square Root: " << sqrt(x) << endl;
     cout << "Square: " << pow(x, y) << endl;
+    cout << "Double: " << x * x << y * y << endl;
+
+// Math is like an AI that determines the numbers
 
     return 0;
 }
