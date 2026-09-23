@@ -1,6 +1,7 @@
 #include <iostream>
 #include <cmath>
 
+
 int main()
 {
     std::cout << "THE FIRST EXAMPLE MATH DISPLAY!\n";
